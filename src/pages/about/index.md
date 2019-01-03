@@ -4,7 +4,7 @@ title: About Me
 ---
 ### Who am I?
 
-TBD
+* TBD
 
 ### Why did I create a blog?
 

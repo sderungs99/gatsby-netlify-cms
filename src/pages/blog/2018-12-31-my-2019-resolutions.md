@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My 2019 Resolutions
+title: My (draft) 2019 Resolutions
 date: 2018-12-31T07:07:50.276Z
 description: 'Following are my initial thoughts on 2019 resolutions, in no particular order.'
 tags:

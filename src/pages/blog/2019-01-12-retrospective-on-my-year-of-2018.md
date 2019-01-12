@@ -50,6 +50,12 @@ Although I consider it an achievement about actually spending time on coding (se
 
 # What will I change going forward?
 
-1. Mindfulness
+Like Jason, I want to set myself some high-level goals for 2019, with more details in "90-day-goals".
 
-Meditation and Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on gatesnotes.
+## High-level 2019 goals
+
+* **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on gatesnotes.
+* **I want to become a more hands-on engineer. **Further work on prototypes, pair with senior engineers, etc. Ultimately, I want my name to regularly appear in our code repository at work.
+* **I want to start a blog, where I regularly write about my progress. **I was thinking very long about this. Should I really make this public? Isn't this personal and I should keep it to me? Ultimately, my hope is that when I write this down and make it public, I will feel more accountable for it, and therefore increase the changes to actually achieve these goals
+
+90 day goals for Q1 2019

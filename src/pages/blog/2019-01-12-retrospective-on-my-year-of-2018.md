@@ -6,6 +6,7 @@ description: What went well? What didn't go well? What will I change going forwa
 tags:
   - 2019-resolutions
 ---
+
 Inspired by Jason Lengstorf's [blog entry](https://lengstorf.com/2018-personal-retrospective), here is my own 2018 retrospective. I am publishing this in the hopes that I will be more accountable and therefore hopefully increase the changes of actually achieving my resolutions!
 
 # What went well?
@@ -54,10 +55,10 @@ Like Jason, I want to set myself some high-level goals for 2019, with more detai
 
 ## High-level 2019 goals
 
-* **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on [gatesnotes](https://www.gatesnotes.com/Books/The-Headspace-Guide-to-Meditation-and-Mindfulness).
-* **I want to become a more hands-on engineer. **Further work on prototypes, pair with senior engineers, etc. Ultimately, I want my name to regularly appear in our code repository at work.
-* **I want to start a blog, where I regularly write about my progress. **I was thinking very long about this. Should I really make this public? Isn't this personal and I should keep it to me? Ultimately, my hope is that when I write this down and make it public, I will feel more accountable for it, and therefore increase the changes to actually achieve these goals
-* I do have goals to address family time, but I consider these too personal and would not want to blog about them
+- **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on [gatesnotes](https://www.gatesnotes.com/Books/The-Headspace-Guide-to-Meditation-and-Mindfulness).
+- **I want to become a more hands-on engineer.** Further work on prototypes, pair with senior engineers, etc. Ultimately, I want my name to regularly appear in our code repository at work.
+- **I want to start a blog, where I regularly write about my progress.** I was thinking very long about this. Should I really make this public? Isn't this personal and I should keep it to me? Ultimately, my hope is that when I write this down and make it public, I will feel more accountable for it, and therefore increase the changes to actually achieve these goals
+- I do have goals to address family time, but I consider these too personal and would not want to blog about them
 
 ## 90 day goals for Q1 2019
 

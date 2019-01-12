@@ -26,6 +26,30 @@ Yes, I got promoted at my work, despite the big focus on my baby son. Nothing mo
 
 Inspired by the focus on engineering and the change to an engineering culture at my work, I found the joy of coding again, though there is a lot to catch-up. I have mostly focused on JavaScript, with a few success stories of prototypes that I have created. There is even one prototype (a Apollo GraphQL server), which I have created and is now being used by an engineering team and is successfully running in production!
 
-4. "Regularly" went to gym
+## 4. "Regularly" went to gym
 
 I am using quotes here, because it should say "regularly, whenever possible". Meaning that unless I fell sick, or I had to help out at home with the kids, I went to gym 3 times a week (in the early morning, before work).
+
+# What didn't go well?
+
+## 1. "Just us" time
+
+Looking after the baby was challenging, and has unfortunately also impacted the time my wife and I were able to spend focus on us. A dinner, or even just sitting together for a while and talk (about something else but children), was almost not possible.
+
+## 2. Wanting to do too many things
+
+Have you ever been in the situation when you open Netflix, because you have some time to watch a show, and there are so many shows you want to watch, that you become frustrated and end up not watching anything at all, and instead just go to bed? I experienced this all the time. And not only while watching Netflix, but in almost any situation where I had some me time.
+
+## 3. Body transformation
+
+Despite going to gym "regularly" (note the quotes here again), I did not gain any muscle mass (or not a lot, anyway).
+
+4. Spending time coding
+
+Although I consider it an achievement about actually spending time on coding (see above section), I would have liked to focus even more on it.
+
+# What will I change going forward?
+
+1. Mindfulness
+
+Meditation and Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on gatesnotes.

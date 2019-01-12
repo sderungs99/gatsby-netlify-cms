@@ -14,7 +14,7 @@ Inspired by Jason Lengstorf's [blog entry](https://lengstorf.com/2018-personal-r
 
 ## 1. Managed to take care of our baby boy (without any outside help)
 
-Our second son was born in October 2017, and my wife and I decided to go take care of him without any help. Living in Singapore, having a nanny is more or less standard, but for various reasons, a nanny does not work for us. Also, with my parents living in another country and the passing away of my mother-in-law a while ago, this was not an option either.
+Our second son was born in October 2017, and my wife and I decided to take care of him without any helpers. Living in Singapore, having a nanny is more or less standard, but for various reasons, a nanny does not work for us. Also, with my parents living in another country and the passing away of my mother-in-law a while ago, this was not an option either.
 
 Today, I am really proud of me (and especially my wife) that we have made it through the year. It was often difficult, but ultimately it is very rewarding to be able to do that, and I it will only get easier next year... :-)
 
@@ -24,7 +24,7 @@ Yes, I got promoted at my work, despite the big focus on my baby son. Nothing mo
 
 ## 3. Got my hands dirty on coding again
 
-Inspired by the focus on engineering and the change to an engineering culture at my work, I found the joy of coding again, though there is a lot to catch-up. I have mostly focused on JavaScript, with a few success stories of prototypes that I have created. There is even one prototype (a Apollo GraphQL server), which I have created and is now being used by an engineering team and is successfully running in production!
+Inspired by the focus on engineering and the change to an engineering culture at my work, I found the joy of coding again, though there is a lot to catch-up. I have mostly focused on JavaScript, with a few success stories of prototypes that I have created. There is even one prototype (an Apollo GraphQL server), which I have created and is now being used by an engineering team and is successfully running in production!
 
 ## 4. "Regularly" went to gym
 
@@ -34,11 +34,11 @@ I am using quotes here, because it should say "regularly, whenever possible". Me
 
 ## 1. "Just us" time
 
-Looking after the baby was challenging, and has unfortunately also impacted the time my wife and I were able to spend focus on us. A dinner, or even just sitting together for a while and talk (about something else but children), was almost not possible.
+Looking after the baby was challenging, and has unfortunately also impacted the time my wife and I were able to focus on us. A dinner, or even just sitting together for a while and talk (about something else but children), was almost not possible.
 
 ## 2. Wanting to do too many things
 
-Have you ever been in the situation when you open Netflix, because you have some time to watch a show, and there are so many shows you want to watch, that you become frustrated and end up not watching anything at all, and instead just go to bed? I experienced this all the time. And not only while watching Netflix, but in almost any situation where I had some me time.
+Have you ever been in the situation where you open Netflix, because you have some time to watch a show, and there are so many shows you want to watch, that you become frustrated and end up not watching anything at all, and instead just go to bed? I experienced this all the time. And not only while watching Netflix, but in almost any situation where I had some me time.
 
 ## 3. Body transformation
 
@@ -54,7 +54,7 @@ Like Jason, I want to set myself some high-level goals for 2019, with more detai
 
 ## High-level 2019 goals
 
-* **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on gatesnotes.
+* **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on [gatesnotes](https://www.gatesnotes.com/Books/The-Headspace-Guide-to-Meditation-and-Mindfulness).
 * **I want to become a more hands-on engineer. **Further work on prototypes, pair with senior engineers, etc. Ultimately, I want my name to regularly appear in our code repository at work.
 * **I want to start a blog, where I regularly write about my progress. **I was thinking very long about this. Should I really make this public? Isn't this personal and I should keep it to me? Ultimately, my hope is that when I write this down and make it public, I will feel more accountable for it, and therefore increase the changes to actually achieve these goals
 * I do have goals to address family time, but I consider these too personal and would not want to blog about them

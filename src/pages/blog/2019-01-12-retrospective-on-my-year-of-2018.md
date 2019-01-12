@@ -44,7 +44,7 @@ Have you ever been in the situation when you open Netflix, because you have some
 
 Despite going to gym "regularly" (note the quotes here again), I did not gain any muscle mass (or not a lot, anyway).
 
-4. Spending time coding
+## 4. Spending time coding
 
 Although I consider it an achievement about actually spending time on coding (see above section), I would have liked to focus even more on it.
 
@@ -57,5 +57,15 @@ Like Jason, I want to set myself some high-level goals for 2019, with more detai
 * **I want to start to meditate.** Mindfulness was something that was on my mind for a while now, especially since hearing about it from co-workers as well as reading about it on gatesnotes.
 * **I want to become a more hands-on engineer. **Further work on prototypes, pair with senior engineers, etc. Ultimately, I want my name to regularly appear in our code repository at work.
 * **I want to start a blog, where I regularly write about my progress. **I was thinking very long about this. Should I really make this public? Isn't this personal and I should keep it to me? Ultimately, my hope is that when I write this down and make it public, I will feel more accountable for it, and therefore increase the changes to actually achieve these goals
+* I do have goals to address family time, but I consider these too personal and would not want to blog about them
 
-90 day goals for Q1 2019
+## 90 day goals for Q1 2019
+
+In the next 90 days, I want to:
+
+1. **Find out more about Mindfulness** by reading the book [THE HEADSPACE GUIDE TO MEDITATION AND MINDFULNESS](https://www.amazon.com/gp/product/1250104904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250104904&linkCode=as2&tag=jasonguti07-20&linkId=f073156382922fdfe8ea8bc8fe21a4ba) by Andy Puddicombe. I only heard good things about it and I am sure it will kick-start me.
+2. **Create a simple app using Flutter and build the same as a progressive web app.** Flutter may be useful as it is one of the options we are thinking about at work to write the next version of our app with. At the same time I want to continue focusing on JavaScript
+3. **Create a blog (already done) and personalise it more**. Currently, it is using the default gatsbyjs template.
+4. **Write at least one article about each of my three 90 day goals above**.
+
+That's it, wish me luck! :-)

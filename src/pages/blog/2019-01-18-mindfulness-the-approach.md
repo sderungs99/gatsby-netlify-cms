@@ -18,6 +18,10 @@ The mind is the sky. Your thoughts are the clouds. There can be heavy clouds, li
 
 Don't try to desperately hold on to good experience, and embrace bad experiences. This can be done by consciously thinking that when you have a good experience, you share it with others, whereas when you have a bad experience you would imagine that you would hold these bad experiences for someone else that you care for, so that that person does not have to experience this.
 
+The Practice
+
+The next blog post will be more details about the next chapter in the book: The Approach.
+
 ## "Take10"
 
 This is the section in the book, where it explains the approach of taking just 10 minutes every day and mediate. For my own learnings, here is the summary, copied straight from the book:
